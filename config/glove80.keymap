@@ -245,7 +245,7 @@
 #define POS_RH_C6R5 63
 #define POS_RH_C6R6 79
 
-define LEFT_HAND_KEYS                                \
+#define LEFT_HAND_KEYS                                \
       0  1  2  3  4                                  \
      10 11 12 13 14 15                               \
      22 23 24 25 26 27                               \
