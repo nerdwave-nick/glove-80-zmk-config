@@ -271,7 +271,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HRM_I";
             #binding-cells = <2>;
-            flavor = "balanced"
+            flavor = "balanced";
             tapping-term-ms = <200>;
             quick-tap-ms = <100>;
             bindings = <&kp>, <&kp>;
@@ -281,7 +281,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HRM";
             #binding-cells = <2>;
-            flavor = "tap-preferred"
+            flavor = "tap-preferred";
             tapping-term-ms = <200>;
             quick-tap-ms = <100>;
             bindings = <&kp>, <&kp>;
@@ -291,7 +291,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "LTP";
             #binding-cells = <2>;
-            flavor = "balanced"
+            flavor = "balanced";
             tapping-term-ms = <200>;
             bindings = <&mo>, <&kp>;
         };
