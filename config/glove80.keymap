@@ -303,8 +303,7 @@
             tapping-term-ms = <200>;
             bindings = <&caps_word>, <&kp CAPS>;
         };
-    }
-    
+    }; 
 };
 
     /* Automatically generated keymap */
