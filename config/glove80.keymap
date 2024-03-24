@@ -315,12 +315,12 @@
 
         layer_Base {
             bindings = <
-               &kp F1          &kp F2           &kp F3           &kp F4              &kp F5                                                                                                            &kp F6           &kp F7          &kp F8          &kp F9       &kp F10
-                &none          &kp N1           &kp N2           &kp N3              &kp N4  &kp N5                                                                                   &kp N6           &kp N7           &kp N8          &kp N9          &kp N0       &kp F11
-                &none         &kp SQT        &kp COMMA          &kp DOT               &kp P   &kp Y                                                                                    &kp F            &kp G            &kp C           &kp R           &kp L       &kp F12
-              &tdcaps     &hrm LGUI A      &hrm LALT O     &hrm LCTRL E      &hrm_i LSHFT U   &kp I                                                                                    &kp D   &hrm_i RSHFT H     &hrm RCTRL T     &hrm RALT N     &hrm RGUI S   &key_repeat
-                &none       &kp SLASH            &kp Q            &kp J               &kp K   &kp X           &kp ESC &kp LBRC &kp LBKT      &kp RBKT   &kp RBRC     &ltp LSYM DEL     &kp B            &kp M            &kp W           &kp V           &kp Z         &none
-       &magic LMAGIC 0          &none            &none            &none               &none           &ltp LNAV SPACE  &kp TAB &kp LPAR      &kp RPAR    &kp RET    &ltp LNUM BSPC                      &none            &none           &none           &none   &to LGAMING
+               &kp F1          &kp F2           &kp F3           &kp F4              &kp F5                                                                                                               &kp F6           &kp F7          &kp F8          &kp F9       &kp F10
+                &none          &kp N1           &kp N2           &kp N3              &kp N4  &kp N5                                                                                      &kp N6           &kp N7           &kp N8          &kp N9          &kp N0       &kp F11
+                &none         &kp SQT        &kp COMMA          &kp DOT               &kp P   &kp Y                                                                                       &kp F            &kp G            &kp C           &kp R           &kp L       &kp F12
+              &tdcaps     &hrm LGUI A      &hrm LALT O     &hrm LCTRL E      &hrm_i LSHFT U   &kp I                                                                                       &kp D   &hrm_i RSHFT H     &hrm RCTRL T     &hrm RALT N     &hrm RGUI S   &key_repeat
+                &none       &kp SLASH            &kp Q            &kp J               &kp K   &kp X           &kp ESC &kp LBRC &kp LBKT      &kp RBKT      &kp RBRC  &ltp LSYM DEL        &kp B            &kp M            &kp W           &kp V           &kp Z         &none
+       &magic LMAGIC 0          &none            &none            &none               &none           &ltp LNAV SPACE  &kp TAB &kp LPAR      &kp RPAR &ltp LSYM RET &ltp LNUM BSPC                         &none            &none           &none           &none   &to LGAMING
             >;
         };
 
